@@ -448,6 +448,7 @@ int main() {
     vector<Room> rooms;
     RoomManager roomManager;
     InvoiceManager invoiceManager;
+    int ajeet=99;
 
     // Add some rooms to the hospital
     rooms.push_back(Room(1,"Single", 1));
